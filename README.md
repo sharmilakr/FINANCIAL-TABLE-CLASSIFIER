@@ -1,0 +1,1 @@
+The objective is to classify tables from financial statements into categories: Income Statements, Balance Sheets, Cash Flows, Notes, and Others. The process involves extracting, preprocessing, training, and evaluating a classification model.
